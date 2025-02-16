@@ -16,3 +16,6 @@ This repository contains the code for **Assignment 2** in **COT-4500**. The assi
 2. Run the script with:
    ```bash
    python assignment_2.py
+
+## Author
+### Duc Nguyen
